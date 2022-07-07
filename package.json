@@ -20,7 +20,7 @@
     "expo-constants": "6.0.0",
     "expo-font": "~6.0.0",
     "expo-web-browser": "6.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "react": "16.8.3",
     "react-dom": "^16.8.6",
     "react-moment": "^0.9.2",
